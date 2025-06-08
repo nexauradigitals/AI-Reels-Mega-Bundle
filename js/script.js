@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function() {
     if (getStartedButton) {
         getStartedButton.addEventListener('click', function(e) {
             e.preventDefault();
-            window.location.href = 'https://superprofile.bio/vp/ultimate-2000-reels-bundle-go-viral-with-ease';
+            window.location.href = 'https://superprofile.bio/vp/ultimate-2000--reels-bundle-–-go-viral-with-ease-';
         });
     }
 
